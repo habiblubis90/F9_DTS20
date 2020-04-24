@@ -63,3 +63,11 @@ body {
     margin-top: 20px;
     margin-bottom: 20px;
   }
+
+.profil {
+    background-image: url(https://images.pexels.com/photos/380769/pexels-photo-380769.jpeg);
+    width: 1170px;
+    background-size: cover;
+    padding: 180px 0 100px 0;
+    text-align: center;
+}
