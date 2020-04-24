@@ -73,6 +73,6 @@ body {
 .profil {
     width: 1170px;
     text-align: center;
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding: 50px 50px;
+    background-color: white;
 }
