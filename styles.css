@@ -64,6 +64,10 @@ body {
     margin-bottom: 20px;
   }
 
+.main {
+    width: 1170px;
+}
+
 .profil-wrapper {
     padding: 25px 0;
     background-image: url(https://images.pexels.com/photos/380769/pexels-photo-380769.jpeg);
@@ -71,7 +75,6 @@ body {
 }
 
 .profil {
-    width: 1170px;
     text-align: center;
     padding: 50px 50px;
     background-color: white;
