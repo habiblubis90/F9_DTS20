@@ -15,7 +15,7 @@ body {
 }
 .header-logo {
   float:left;
-  padding-top:20px;
+  padding:20px;
 }
 .header-menu {
   float:right;
