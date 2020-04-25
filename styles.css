@@ -11,6 +11,7 @@ body {
 .header {
   height:100px;
   background-color:#008B8B;
+  color:#F0FFFF;
 }
 .header-logo {
   float:left;
