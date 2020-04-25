@@ -20,14 +20,11 @@ body {
 .header-menu {
   float:right;
   padding:30px;
-  font-size:23px; 
-  color:#F0FFFF;
+  font-size:25px; 
 }
-a {
-  margin-right:30px;
-}
-a:hover {
-  background-color:#2F4F4F; 
+.header-menu a {
+  color:white;
+  padding-right:10px;
 }
 
  /*header*/ 
