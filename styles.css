@@ -20,6 +20,7 @@ html,body {
 .header-menu {
   float:right;
   padding:30px;
+  line-height:100px;
   font-size:20px; 
 }
 .header-menu a {
