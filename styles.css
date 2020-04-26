@@ -195,8 +195,12 @@ body {
 
 .footer .footer-content .links ul a:hover{
   color:white;
-  margin-left:15px;
+  margin-left:80px;
   transition: all .3s;
+}
+
+  .footer .footer-section h2{
+    margin-left:60px;
 }
 
 .footer .footer-content .contact-form .contact-input{
