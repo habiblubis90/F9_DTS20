@@ -6,3 +6,9 @@
   .footer{
     width:50%;
 }
+  
+ @media (max-width:670px){
+   .footer{
+    width:100%;
+   }
+  }
