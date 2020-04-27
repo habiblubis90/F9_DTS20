@@ -3,9 +3,10 @@
     width:50%;
     margin-bottom: 50px;
   }
-  .footer{
-    width:50%;
-}
+  .footer-bottom{
+      text-align:center;
+     
+   }
   
  @media (max-width:670px){
    .footer{
