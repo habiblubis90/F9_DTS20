@@ -121,6 +121,7 @@ html,body {
 .projects {
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
 }
 .project {
   padding-bottom: 20px;
