@@ -17,5 +17,9 @@
      
    }
    .projects{
-     width:100%;
+     flex-wrap: wrap;
+   }
+   .project icon{
+     width:50%;
+   }
 }
