@@ -178,8 +178,7 @@ html,body {
   height:40px;
   width:100%;
   text-align:center;
- /* position:absolute;*/
-  position:fixed;
+  position:absolute;
   bottom:0px;
   left:0px;
   padding-top:10px;
