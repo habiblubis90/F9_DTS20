@@ -16,6 +16,9 @@
       text-align:center;
      
    }
+   .main {
+     background: none;
+   }
    .projects{
      flex-wrap: wrap;
    }
