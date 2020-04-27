@@ -81,11 +81,6 @@ html,body {
       opacity: 1;
   }
 
-.btn-big{
-    padding: .7rem 1.3rem;
-    line-height:1.3rem;
-    color:#2d3436;
-}
   .join{
       background-color: #e42012;
   }
@@ -181,6 +176,6 @@ html,body {
   position:absolute;
   bottom:0px;
   left:0px;
-  padding-top:10px;
+  /*padding-top:10px;*/
 }
 /*footer end */
