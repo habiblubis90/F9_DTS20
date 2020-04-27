@@ -139,6 +139,7 @@ html,body {
     background-size: cover;
     padding-bottom: 50px;
     height: 300px;
+  text-align: center;
 }
 .project-title {
     padding-top: 20px;
