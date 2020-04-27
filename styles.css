@@ -179,3 +179,35 @@ html,body {
   padding-top:10px;
 }
 /*footer end */
+.foto {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    position: center;
+}
+
+.title {
+    border-bottom: 2px solid grey;
+    text-align: center;
+    font-size: 28px;
+    margin-bottom:50px;
+    padding-top: 28px;
+}
+
+.extra2 {
+    height: 300px;
+    margin-top: 100px;
+
+}
+
+.conten p {
+    font-size: 28px;
+    margin-top: 40px;
+}
+
+.conten{
+    float: left;
+    margin-right: 40px;
+    padding-left: 40px;
+    margin-left: 30px;
+}
