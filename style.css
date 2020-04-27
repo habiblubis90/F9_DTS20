@@ -1,0 +1,50 @@
+body{
+    font-family: "Avenir Next";
+    background-color: #70bcd4;
+}
+
+.foto {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    position: center;
+}
+
+.title {
+    border-bottom: 2px solid grey;
+    text-align: center;
+    font-size: 28px;
+    margin-bottom:50px;
+    padding-top: 28px;
+}
+
+.extra2 {
+    height: 300px;
+    margin-top: 100px;
+
+}
+
+.conten p {
+    font-size: 28px;
+    margin-top: 40px;
+}
+
+.conten{
+    float: left;
+    margin-right: 40px;
+    padding-left: 40px;
+    margin-left: 30px;
+}
+
+@media screen and (max-width:460px){
+    .conten{
+     width: 96%;
+     max-width: 960px;
+     margin: 0 auto;
+	font-size: 14px;
+    }
+    .foto {
+        width: 200px;
+        height: 200px;
+    }
+}
