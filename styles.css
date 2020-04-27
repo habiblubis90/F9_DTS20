@@ -119,8 +119,11 @@ html,body {
   font-size: 35px;
     }
 .project {
-    display: flex;
-    justify-content: center;
+    float: left;
+    width: 25%;
+}
+.project-icon {
+  position: relative
 }
 .project-icon img {
     max-height: 70px;
