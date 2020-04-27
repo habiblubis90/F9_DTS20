@@ -167,8 +167,8 @@ html,body {
   background: #303036;
   color: #d3d3d3;
   height: 40px;
- /* position:relative;*/
-  position:fixed;
+  position:relative;
+  
 }
 
 
@@ -178,8 +178,8 @@ html,body {
   height:40px;
   width:100%;
   text-align:center;
-  /*position:absolute;*/
-  
+ /* position:absolute;*/
+  position:fixed;
   bottom:0px;
   left:0px;
   padding-top:10px;
